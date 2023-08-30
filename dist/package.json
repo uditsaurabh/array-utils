@@ -1,0 +1,25 @@
+{
+  "name": "@udit_11/array_utils",
+  "version": "1.0.0",
+  "description": "Provides methods to work with array and ease your day to day work. ",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects":false,
+  "repository": {
+    "type":"git",
+    "url":""
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "array utility methods",
+    "package"
+  ],
+  "author": "Udit Saurabh",
+  "license": "MIT"
+}
