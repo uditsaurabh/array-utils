@@ -1,13 +1,13 @@
 {
-  "name": "@udit_11/array_utils",
+  "name": "@uditsaurabh11/array_utils",
   "version": "1.0.0",
   "description": "Provides methods to work with array and ease your day to day work. ",
   "main": "lib/es5/index.js",
   "module": "lib/es6/index.js",
-  "sideEffects":false,
+  "sideEffects": false,
   "repository": {
-    "type":"git",
-    "url":""
+    "type": "git",
+    "url": ""
   },
   "directories": {
     "lib": "lib"
@@ -21,5 +21,6 @@
     "package"
   ],
   "author": "Udit Saurabh",
-  "license": "MIT"
+  "license": "MIT",
+  "types": "./lib/es5/index.d.ts"
 }
